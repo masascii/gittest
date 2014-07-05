@@ -3,5 +3,8 @@ gittest
 
 gitのチュートリアル
 
-*readme.dmのテスト*
+*readme.mdのテスト*
+改行
+
+改行  改行
 
